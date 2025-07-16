@@ -12,3 +12,6 @@ def selection_sort(arr):
 arr = [64, 25, 12, 22, 11]
 sorted_arr = selection_sort(arr)
 print(sorted_arr)
+
+#Selection Sort is a simple comparison-based sorting algorithm.
+#It works by repeatedly finding the minimum (or maximum) element from the unsorted part of the array and moving it to the beginning.
